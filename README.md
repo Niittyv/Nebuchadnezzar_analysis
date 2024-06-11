@@ -1,2 +1,2 @@
 # Nebuchadnezzar_analysis
-Statistics for my trading system
+Backtesting statistics for my trading system
